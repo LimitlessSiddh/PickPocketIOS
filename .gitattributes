@@ -1,0 +1,48 @@
+* text=auto eol=lf
+
+# Source files
+*.swift text
+*.h text
+*.m text
+*.mm text
+*.c text
+*.cpp text
+*.cc text
+
+# Project files
+*.xcodeproj text
+*.pbxproj text
+*.xcworkspace text
+*.xcscheme text
+
+# Documentation
+*.md text
+*.txt text
+
+# Configuration files
+*.plist text
+*.json text
+*.xml text
+*.yaml text
+*.yml text
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+
+# Archives
+*.zip binary
+*.tar.gz binary
+*.tar binary
+*.rar binary
+
+# Fonts
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+*.eot binary
